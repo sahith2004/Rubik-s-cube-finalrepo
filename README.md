@@ -16,7 +16,7 @@ It is recommended to use Clion IDE
 Clone the project
 
 ```bash
-  git clone https://github.com/sahith2004/Rubiks-Cube-Solver.git
+  git clone https://github.com/sahith2004/Rubik-s-cube-finalrepo
 ```
 
 
